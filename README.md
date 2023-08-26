@@ -1,2 +1,1 @@
-# EMPSO
-The_source_code_of_EMPSO
+Dear Reviewer, Thank you for your contribution and work on this paper
